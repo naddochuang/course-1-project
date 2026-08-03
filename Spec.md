@@ -1,6 +1,6 @@
 # Specification
 
-## Product intent
+## Product intent 
 
 Create a lightweight local web application for approved tabular dataset review. The tool supports quick exploratory understanding without requiring the user to write Python.
 
